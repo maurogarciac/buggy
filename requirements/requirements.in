@@ -1,0 +1,6 @@
+# Check pip-tools's docs: https://pip-tools.readthedocs.io/en/latest/cli/pip-compile/
+
+ruff
+pip-tools
+fastapi
+uvicorn
