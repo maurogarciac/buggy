@@ -1,0 +1,7 @@
+name: buggy-api
+services:
+  run:
+    platform: linux/amd64
+    build:
+      context: .
+      dockerfile: Dockerfile
