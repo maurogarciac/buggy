@@ -1,0 +1,33 @@
+{
+    "events": [
+        {
+            "event": "$click",
+            "properties": {
+                "distinct_id": "56676925-6e55-4072-98db-ca544bd3dbb5",
+                "session_id": "fcc95c16-28ae-4bc5-bead-cf052ab87cef",
+                "journey_id": "98eb984a-542f-4064-8e48-73ee04632a03",
+                "$current_url": "https://www.bugster.app/dashboard",
+                "$host": "www.bugster.app",
+                "$pathname": "/dashboard",
+                "$browser": "Chrome",
+                "$device": "Desktop",
+                "$referrer": "https://www.bugster.app/testCases?testCaseId=",
+                "$referring_domain": "www.bugster.app",
+                "$screen_height": 1117,
+                "$screen_width": 1728,
+                "eventType": "click",
+                "elementType": "div",
+                "elementText": "71.43%Pass Rate21Tests",
+                "timestamp": "2024-10-10T22:53:05.563Z",
+                "x": 539,
+                "y": 445,
+                "mouseButton": 0,
+                "ctrlKey": false,
+                "shiftKey": false,
+                "altKey": false,
+                "metaKey": false
+            },
+            "timestamp": "2024-10-10T22:53:05.563Z"
+        }
+    ]
+}

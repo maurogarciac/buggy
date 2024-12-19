@@ -7,4 +7,4 @@ test:
 
 .PHONY: start
 start:
-	uvicorn main:app --reload
+	uvicorn src.main:app --reload

@@ -1,9 +1,9 @@
 FROM python:3.11-bookworm
 
-WORKDIR /src
-COPY . /src
+WORKDIR /work
+COPY . /work
 
 # Install required packages
 RUN pip install -r requirements.txt --no-compile --no-cache-dir
 
-CMD ["uvicorn" "main:app"]
+CMD ["uvicorn" "src.main:app"]
