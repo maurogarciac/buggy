@@ -59,9 +59,10 @@ class EventList(BaseModel):
 
 
 class Event(Base):
+    """ imagine the event object but for your db """
     __tablename__ = "events"
 
-    event: Column()                                                      # Tipo de evento (ej: "$click")
+    event: Column()
     properties: EventProperties
-    timestamp: datetime                                             # ISO timestamp del evento
+    timestamp: datetime
 
