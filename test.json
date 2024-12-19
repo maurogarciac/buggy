@@ -289,6 +289,84 @@
                 "metaKey": false
             },
             "timestamp": "2024-10-10T22:53:17.529Z"
+        },
+        {
+            "event": "$click",
+            "properties": {
+                "distinct_id": "56676925-6e55-4072-98db-ca544bd3dbb5",
+                "session_id": "fcc95c16-28ae-4bc5-bead-cf052ab87cef",
+                "journey_id": "98eb984a-542f-4064-8e48-73ee04632a03",
+                "$current_url": "https://www.bugster.app/testCases",
+                "$host": "www.bugster.app",
+                "$pathname": "/testCases",
+                "$browser": "Chrome",
+                "$device": "Desktop",
+                "$referrer": "https://www.bugster.app/testCases?testCaseId=",
+                "$referring_domain": "www.bugster.app",
+                "$screen_height": 1117,
+                "$screen_width": 1728,
+                "eventType": "click",
+                "elementType": "svg",
+                "elementText": "",
+                "elementAttributes": {
+                    "xmlns": "http://www.w3.org/2000/svg",
+                    "fill": "none",
+                    "viewBox": "0 0 24 24",
+                    "stroke-width": "1.5",
+                    "stroke": "currentColor",
+                    "aria-hidden": "true",
+                    "data-slot": "icon",
+                    "class": "h-4"
+                },
+                "timestamp": "2024-10-10T22:53:17.849Z",
+                "x": 984,
+                "y": 692,
+                "mouseButton": 0,
+                "ctrlKey": false,
+                "shiftKey": false,
+                "altKey": false,
+                "metaKey": false
+            },
+            "timestamp": "2024-10-10T22:53:17.849Z"
+        },
+        {
+            "event": "$click",
+            "properties": {
+                "distinct_id": "56676925-6e55-4072-98db-ca544bd3dbb5",
+                "session_id": "fcc95c16-28ae-4bc5-bead-cf052ab87cef",
+                "journey_id": "98eb984a-542f-4064-8e48-73ee04632a03",
+                "$current_url": "https://www.bugster.app/testCases",
+                "$host": "www.bugster.app",
+                "$pathname": "/testCases",
+                "$browser": "Chrome",
+                "$device": "Desktop",
+                "$referrer": "https://www.bugster.app/testCases?testCaseId=",
+                "$referring_domain": "www.bugster.app",
+                "$screen_height": 1117,
+                "$screen_width": 1728,
+                "eventType": "click",
+                "elementType": "svg",
+                "elementText": "",
+                "elementAttributes": {
+                    "xmlns": "http://www.w3.org/2000/svg",
+                    "fill": "none",
+                    "viewBox": "0 0 24 24",
+                    "stroke-width": "1.5",
+                    "stroke": "currentColor",
+                    "aria-hidden": "true",
+                    "data-slot": "icon",
+                    "class": "h-4"
+                },
+                "timestamp": "2024-10-10T22:53:18.547Z",
+                "x": 984,
+                "y": 692,
+                "mouseButton": 0,
+                "ctrlKey": false,
+                "shiftKey": false,
+                "altKey": false,
+                "metaKey": false
+            },
+            "timestamp": "2024-10-10T22:53:18.547Z"
         }
     ]
 }
